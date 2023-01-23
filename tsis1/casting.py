@@ -1,0 +1,8 @@
+int_a = int("2")
+int_b = int(2.9)
+int_c = int(2)
+print(int_a, int_b, int_c, sep="\n")
+str_a = str("1")
+str_b = str(2)
+str_c = str(2.3)
+print(str_a, str_b, str_c, sep="\n" )
